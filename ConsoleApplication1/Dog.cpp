@@ -1,5 +1,7 @@
+#include"ConsoleApplication1.cpp"
+
 class Dog
 {
-
-	//sdf
+	cout << "This is dog" << endl;
+	//////
 };
