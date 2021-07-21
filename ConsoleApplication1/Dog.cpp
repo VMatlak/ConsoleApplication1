@@ -3,5 +3,5 @@
 class Dog
 {
 	cout << "This is dog" << endl;
-
+	//////
 };
